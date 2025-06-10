@@ -1,6 +1,6 @@
-# Zig CLI – Code Summarizer
+# Zig CLI – Code Summariser
 
-A lightweight Zig CLI that sends proprietary code to a Python summarizer.
+A lightweight Zig CLI that sends proprietary code to a Python summariser.
 
 ## Build
 

@@ -1,6 +1,6 @@
-# Python Backend – Code Summarizer
+# Python Backend – Code Summariser
 
-A Flask-based code summarizer using CodeT5 (local) or OpenAI GPT (optional).
+A Flask-based code summariser using CodeT5 (local) or OpenAI GPT (optional).
 
 ## Setup
 
