@@ -4,7 +4,7 @@ from summariser import summarise_code
 app = Flask(__name__)
 
 @app.route("/summarise", methods=["POST"])
-def summarize():
+def summarise():
     try:
         data = request.get_json()
         code = data.get("code", "")
