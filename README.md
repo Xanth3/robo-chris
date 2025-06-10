@@ -1,6 +1,8 @@
 # 🤖 Robo Chris
 
-**Robo Chris** is a lightweight, fast, and privacy-conscious tool designed to analyse proprietary code blocks (written in a C-like in-house language) and generate natural language summaries describing their functionality. ***Please note this is still early in development, essentially at proof of concept stage.***
+**Robo Chris** is a lightweight, fast, and privacy-conscious tool designed to analyse proprietary code blocks (written in a C-like in-house language) and generate natural language summaries describing their functionality. 
+
+***Please note this is still early in development, essentially at proof of concept stage.***
 
 This project consists of:
 - A **Zig-based CLI frontend** that pipes code files
@@ -98,16 +100,6 @@ This function checks a list of users and logs those who are marked as active.
 - Zig 0.12 or later
 - Python 3.9 or later
 - Optional: OpenAI API key (set in `summariser.py`)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Especially for:
-
-- Improving summarisation accuracy
-- Adding support for more languages or models
-- Enhancing the CLI interface
 
 ---
 
